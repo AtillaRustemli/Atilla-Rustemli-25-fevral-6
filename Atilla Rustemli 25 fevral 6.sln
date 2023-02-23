@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla Rustemli 25 fevral 6", "Atilla Rustemli 25 fevral 6\Atilla Rustemli 25 fevral 6.csproj", "{564BF392-BAF8-4AD8-8D0F-07521BC0CB9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla Rustemli 25 fevral 7", "Atilla Rustemli 25 fevral 7\Atilla Rustemli 25 fevral 7.csproj", "{46629463-5324-4CFA-A007-3245226FEB76}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla  Rustemli 25 fevral  8", "Atilla  Rustemli 25 fevral  8\Atilla  Rustemli 25 fevral  8.csproj", "{BA598F01-9DDF-4197-90B4-4D96A0B15287}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla Rustemli 25 fevral 9", "Atilla Rustemli 25 fevral 9\Atilla Rustemli 25 fevral 9.csproj", "{3CCD29BA-9A64-4E3D-943A-375F12D4E5C4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla Rustemli 25 fevral 10", "Atilla Rustemli 25 fevral 10\Atilla Rustemli 25 fevral 10.csproj", "{D78E60CC-636B-438C-93BC-5DE0F5B10696}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla Rustemli 25 fevral 11", "Atilla Rustemli 25 fevral 11\Atilla Rustemli 25 fevral 11.csproj", "{9244F2DA-D1EE-49EF-9FE5-7B4CB11E4A8C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atilla Rustemli 25 fevral 12", "Atilla Rustemli 25 fevral 12\Atilla Rustemli 25 fevral 12.csproj", "{57F8410C-4964-4BD8-B8A2-F571C86CECB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atilla Rustmli 25 fevral 14", "Atilla Rustmli 25 fevral 13\Atilla Rustmli 25 fevral 14.csproj", "{FCA7BC68-03F2-44DA-B384-C655B4B285D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rustemli Atilla 25 fevral 13", "Rustemli Atilla 25 fevral 13\Rustemli Atilla 25 fevral 13.csproj", "{88282F88-2A2F-43D2-896E-BCE81BE761D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Atilla Rustemli 25 fevral 15", "Atilla Rustemli 25 fevral 15\Atilla Rustemli 25 fevral 15.csproj", "{F168CF95-80CD-48BF-84E1-81E532C3C50D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{564BF392-BAF8-4AD8-8D0F-07521BC0CB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564BF392-BAF8-4AD8-8D0F-07521BC0CB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564BF392-BAF8-4AD8-8D0F-07521BC0CB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564BF392-BAF8-4AD8-8D0F-07521BC0CB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46629463-5324-4CFA-A007-3245226FEB76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46629463-5324-4CFA-A007-3245226FEB76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46629463-5324-4CFA-A007-3245226FEB76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46629463-5324-4CFA-A007-3245226FEB76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA598F01-9DDF-4197-90B4-4D96A0B15287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA598F01-9DDF-4197-90B4-4D96A0B15287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA598F01-9DDF-4197-90B4-4D96A0B15287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA598F01-9DDF-4197-90B4-4D96A0B15287}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CCD29BA-9A64-4E3D-943A-375F12D4E5C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CCD29BA-9A64-4E3D-943A-375F12D4E5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CCD29BA-9A64-4E3D-943A-375F12D4E5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CCD29BA-9A64-4E3D-943A-375F12D4E5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D78E60CC-636B-438C-93BC-5DE0F5B10696}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D78E60CC-636B-438C-93BC-5DE0F5B10696}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D78E60CC-636B-438C-93BC-5DE0F5B10696}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D78E60CC-636B-438C-93BC-5DE0F5B10696}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9244F2DA-D1EE-49EF-9FE5-7B4CB11E4A8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9244F2DA-D1EE-49EF-9FE5-7B4CB11E4A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9244F2DA-D1EE-49EF-9FE5-7B4CB11E4A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9244F2DA-D1EE-49EF-9FE5-7B4CB11E4A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57F8410C-4964-4BD8-B8A2-F571C86CECB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F8410C-4964-4BD8-B8A2-F571C86CECB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57F8410C-4964-4BD8-B8A2-F571C86CECB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57F8410C-4964-4BD8-B8A2-F571C86CECB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA7BC68-03F2-44DA-B384-C655B4B285D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA7BC68-03F2-44DA-B384-C655B4B285D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA7BC68-03F2-44DA-B384-C655B4B285D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA7BC68-03F2-44DA-B384-C655B4B285D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88282F88-2A2F-43D2-896E-BCE81BE761D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88282F88-2A2F-43D2-896E-BCE81BE761D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88282F88-2A2F-43D2-896E-BCE81BE761D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88282F88-2A2F-43D2-896E-BCE81BE761D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F168CF95-80CD-48BF-84E1-81E532C3C50D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F168CF95-80CD-48BF-84E1-81E532C3C50D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F168CF95-80CD-48BF-84E1-81E532C3C50D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F168CF95-80CD-48BF-84E1-81E532C3C50D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D8BD09-DF50-46B7-B889-BF4BA49066C0}
+	EndGlobalSection
+EndGlobal
