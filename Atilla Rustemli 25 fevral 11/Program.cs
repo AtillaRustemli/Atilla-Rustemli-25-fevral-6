@@ -34,7 +34,7 @@
             }
             int x = a + c;
             int y = b + d;
-            ulong  n = x * y;
+            long  n = x * y;
             double k = n - (c * 3) / 100;
             Console.WriteLine($"1-ci ve 3-cu ededin cemi: {x}");
             Console.WriteLine($"2-ci ve 4-cu ededin cemi: {y}");
