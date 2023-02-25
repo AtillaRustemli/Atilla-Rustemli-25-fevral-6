@@ -32,9 +32,9 @@
             {
                 goto l4;
             }
-            int x = a + c;
-            int y = b + d;
-            long  n = x * y;
+            double x = a + c;
+            double y = b + d;
+            double   n = x * y;
             double k = n - (c * 3) / 100;
             Console.WriteLine($"1-ci ve 3-cu ededin cemi: {x}");
             Console.WriteLine($"2-ci ve 4-cu ededin cemi: {y}");
